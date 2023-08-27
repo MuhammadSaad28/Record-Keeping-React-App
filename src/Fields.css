@@ -1,0 +1,15 @@
+.resul{
+    display: flex;
+  justify-content: center;
+  
+}
+.result{
+    display: flex;
+    justify-content: space-between;
+    width: 80vw;
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+.result h4{
+    font-weight: 400;
+}

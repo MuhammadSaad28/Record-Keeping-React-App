@@ -1,0 +1,12 @@
+.hea{
+    background-color: black;
+    color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 14vh;
+}
+h1{
+    background-color: black;  
+}
+
